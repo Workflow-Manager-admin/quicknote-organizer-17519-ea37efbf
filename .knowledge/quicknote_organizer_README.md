@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 7, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "806eeecd1f9b30d3af064ea8984f68d2", "format-version": 4, "code-base-name": "default", "filename": "quicknote_organizer/README.md", "knowledge_revision": 6}
